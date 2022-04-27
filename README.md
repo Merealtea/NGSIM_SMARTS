@@ -17,4 +17,8 @@
 
 ## 效果展示
 
+快车道效果
 ![images](https://github.com/Merealtea/NGSIM_SMARTS/edit/main/display/图片一.gif)
+
+慢车道效果
+![images](https://github.com/Merealtea/NGSIM_SMARTS/edit/main/display/图片二.gif)
